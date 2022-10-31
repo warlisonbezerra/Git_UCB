@@ -8,4 +8,5 @@ int main(void){
 	printf("Qual seu nome?: \n");
 	fgets(nome, 30, stdin);
 	printf("prazer em conhecer voce, %s", nome);
+	printf("hello world");
 }
